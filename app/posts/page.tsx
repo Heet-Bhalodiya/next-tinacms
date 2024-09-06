@@ -1,4 +1,4 @@
-import client from "@/tina/__generated__/client";
+import client from "@/tina/__generated__/databaseClient";
 import Link from "next/link";
 import { TinaMarkdown } from "tinacms/dist/rich-text";
 
